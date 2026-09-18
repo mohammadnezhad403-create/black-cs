@@ -1,0 +1,6 @@
+{
+  "name": "BLACK CS PUBLIC IR",
+  "description": "پرتال رسمی سرور کانتر استرایک BLACK CS PUBLIC IR - اتصال آنلاین، مانیتورینگ سرور، خرید VIP و کامیونیتی تلگرام",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
